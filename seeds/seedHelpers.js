@@ -1,4 +1,4 @@
-const descriptors = [
+module.exports.descriptors = [
     'Forest',
     'Ancient',
     'Petrified',
@@ -19,7 +19,7 @@ const descriptors = [
     'Diamond',
 ]
 
-const place = [
+module.exports.places = [
     'Flats',
     'Village',
     'Canyon',
